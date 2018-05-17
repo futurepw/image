@@ -40,7 +40,8 @@ public class Main {
 //        image = toolOfBuff.edgeDetection(image,5);//边缘检测
         image =  toolOfBuff.grayFg(image,128,4);//灰度分割
         toolOfFile.saveImage(image, type, save);
-// openCV
+        
+// openCV 操作  
 //        System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
 //        String imageFilePath = "2.jpg";
 //        Mat mat = openCVtool.read(imageFilePath);
