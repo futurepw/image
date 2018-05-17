@@ -1,7 +1,7 @@
 # java对医学图像算法的一些实现
 
--主要实现了一些常见操作
--主要测试代码如下所示
+- 主要实现了一些常见操作
+- 主要测试代码如下所示
 ```
 import com.peiwei.toolKit.toolOfBuff;
 import com.peiwei.toolKit.toolOfFile;
